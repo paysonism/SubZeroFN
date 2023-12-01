@@ -1,5 +1,7 @@
 # SubZeroFN
 
-This is just a storage repo for offsets and stuff
+This is just a storage repo for you to find the latest discord links and shi.
 
-Join the Discord to download: [https://discord.gg/subz](https://discord.gg/subz)
+<script src="https://subzero.statuspage.io/embed/script.js"></script>
+
+Official Discord: [discord.gg/subz](https://discord.gg/subz)
